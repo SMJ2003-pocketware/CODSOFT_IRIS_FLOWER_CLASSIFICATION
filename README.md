@@ -22,3 +22,5 @@ Next, I built a KNN model with 5 neighbors and trained it on the training data. 
 ![Image](https://github.com/user-attachments/assets/c4c0dea9-9e7e-424c-a439-50d4ebb5e390)
 
 ![Image](https://github.com/user-attachments/assets/fa4dd81c-f63a-4155-affd-9b0d51127d3c)
+
+![Image](https://github.com/user-attachments/assets/bdb3f2df-75af-4c9c-9de9-1c5f454768f2)
