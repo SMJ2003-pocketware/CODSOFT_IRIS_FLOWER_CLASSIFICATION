@@ -19,3 +19,5 @@ Next, I built a KNN model with 5 neighbors and trained it on the training data. 
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/c4c0dea9-9e7e-424c-a439-50d4ebb5e390)
+
